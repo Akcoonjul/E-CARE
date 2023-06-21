@@ -167,7 +167,7 @@ a:focus {
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
-
+.hire:hover {background-color:blue;}
 .custom_nav-container .navbar-nav .nav-item:hover .nav-link, .custom_nav-container .navbar-nav .nav-item.active .nav-link {
   color: #000000;
   background-color: #ffffff;
